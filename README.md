@@ -1,13 +1,7 @@
-# Recipe Shop (iPhone web app)
+# Recipe Shop
 
-**Open on your phone:** after GitHub Pages is on:
+Use this on iPhone right now (no Pages wait):
 
-https://ownpussy.github.io/recipe-shop-web/
+https://cdn.jsdelivr.net/gh/ownpussy/recipe-shop-web@main/index.html
 
-Turn Pages on (one-time, free):
-1. Open https://github.com/ownpussy/recipe-shop-web/settings/pages
-2. Source: Deploy from a branch
-3. Branch: `main` / folder `/ (root)`
-4. Save. Wait 1–2 minutes.
-
-On iPhone Safari: open that URL → Share → Add to Home Screen.
+Safari → Share → Add to Home Screen.
